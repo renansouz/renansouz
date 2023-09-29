@@ -1,10 +1,10 @@
 ### Olá! Me chamo Renan👋
 <!--INICIO-->
- • 🌱 Estudando <strong>Javascript</strong>
+ • 🌱 Studying <strong>Front end</stronger> and <stronger>Back End</strong>
  
- • 🥼 Cursando <strong>Desenvolvimento de Sistemas</strong>
+ • 🥼 <strong>Systems Development</strong> techinical course
  
- • 📫 Contate-me no email: <strong>renanslv004@gmail.com</strong>
+ • 📫 Contact me in email: <strong>renanslv004@gmail.com</strong>
 <!--INICIO-->
 
 <!--GITHUB STATS-->
@@ -15,7 +15,7 @@
 <!--GITHUB STATS-->
 
 <!--ICONES LIGUEGENS-->
-<h3 align="left">Conhecimentos em:</h3>
+<h3 align="left">My skills:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
