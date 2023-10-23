@@ -36,8 +36,5 @@
 
 <!--REDES SOCIAIS-->
 <h3 align="left">Contact-me:</h3>
-<div> 
-<a style="background-color: white;" name="arroz" href="https://www.linkedin.com/in/renan-de-souza-5867b6261/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://www.linkedin.com/in/renan-de-souza-5867b6261/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
 <!--REDES SOCIAIS-->
