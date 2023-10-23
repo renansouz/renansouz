@@ -36,5 +36,5 @@
 
 <!--REDES SOCIAIS-->
 <h3 align="left">Contact-me:</h3>
-<a href="https://www.linkedin.com/in/renan-de-souza-5867b6261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
+<a href="https://www.linkedin.com/in/renan-de-souza-5867b6261/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
 <!--REDES SOCIAIS-->
