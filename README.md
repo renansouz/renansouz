@@ -1,10 +1,9 @@
 ### HI! I'm Renan👋
 <!--INICIO-->
- • 🌱 Studying <strong>Front end</stronger> and <stronger>Back End</strong>
+ • 🌱 Studying to be <strong>Full-Stack developer</strong>
  
  • 🥼 <strong>Systems Development</strong> techinical course
  
- • 📫 Contact me in email: <strong>renanslv004@gmail.com</strong>
 <!--INICIO-->
 
 <!--ICONES LIGUEGENS-->
@@ -37,7 +36,7 @@
 
 <!--REDES SOCIAIS-->
 <div> 
-<a name="arroz" href="https://www.linkedin.com/in/renan-de-souza-5867b6261/" target="_blank">
+<a style="backgroundcolor= white"name="arroz" href="https://www.linkedin.com/in/renan-de-souza-5867b6261/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--REDES SOCIAIS-->
