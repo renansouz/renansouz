@@ -7,13 +7,6 @@
  • 📫 Contact me in email: <strong>renanslv004@gmail.com</strong>
 <!--INICIO-->
 
-<!--GITHUB STATS-->
- <div align="center">
-  <a href="https://github.com/renansouz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansouz&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</div>
-<!--GITHUB STATS-->
-
 <!--ICONES LIGUEGENS-->
 <h3 align="left">My skills:</h3>
 <p align="left"> 
