@@ -1,9 +1,12 @@
+<p><img width="300" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ### HI! I'm Renan👋
 <!--INICIO-->
+ 
  • 🌱 Studying to be <strong>Full-Stack developer</strong>
  
  • 🥼 <strong>Systems Development</strong> techinical course
- 
+
+
 <!--INICIO-->
 
 <!--ICONES LIGUEGENS-->
