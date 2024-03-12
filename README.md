@@ -1,5 +1,7 @@
+
+<img width="300" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 ### <strong>HI! I'm Renan👋</strong>
-<p><img width="300" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <!--INICIO-->
   <br>
  • 🌱 Studying to be <strong>Full-Stack developer</strong>
