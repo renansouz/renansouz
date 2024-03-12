@@ -5,7 +5,7 @@
 <br>
 • 🌱 Currently studying to become a <strong>Full-Stack Developer</strong>.
 
-• 🥼 Pursuing a technical course in <strong>Systems Development</strong>.
+• 🥼 Graduated from a technical course in <strong>Systems Development</strong>.
 <!--BEGIN-->
 
 <!--SKILLS-->
