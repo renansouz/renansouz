@@ -1,5 +1,8 @@
-### <img align="right" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-### <strong>Hi there! I'm Renan👋</strong>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=407BFEFF&height=100"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Ui+bold&weight=900&size=25&pause=1000&color=FEFEFE&background=00065F13&vCenter=true&random=false&width=430&lines=Hi+there!+I'm+Renan+Souza+Silva;Nice+to+meet+you!" alt="Typing SVG" /></a>
+
+<img align="right" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 <!--BEGIN-->
 <br>
@@ -27,5 +30,7 @@
 
 <!--CONTACT-->
 <h3 align="left">Contact me:</h3>
-<a href="https://www.linkedin.com/in/renansilvadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
+<a href="https://www.linkedin.com/in/renansilvadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a> <br>
 <!--CONTACT-->
+
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=407BFEFF"/>
