@@ -22,6 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,bootstrap,sass)](https://skillicons.dev)
 
 <h3 align="left">Contact me:</h3>
-<a href="https://www.linkedin.com/in/renansilvadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a> <br>
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/renansilvadev/) <br>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=407BFEFF)
