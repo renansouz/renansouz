@@ -17,9 +17,13 @@
   <li>🥼 Graduated from a technical course in <strong>Systems Development</strong>.</li>
 </ul>
 
-<h3 align="left">My skills:</h3>
+<h3 align="left">Current Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,bootstrap,sass)](https://skillicons.dev)
+
+<h3 align="left">Skills in Development:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,py,django,mysql)](https://skillicons.dev)
 
 <h3 align="left">Contact me:</h3>
 
