@@ -24,6 +24,7 @@
 
 ### Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/renansilvadev/) <br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renansilvadev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanss2005@gmail.com)
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=407BFEFF)
