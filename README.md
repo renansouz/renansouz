@@ -17,11 +17,12 @@
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,bootstrap)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,git)](https://skillicons.dev)
 
 ### Skills in Development:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,py,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,py,django,mysql)](https://skillicons.dev)
 
 ### Contact me:
 
