@@ -8,35 +8,23 @@
 ### About me:
 <a href="#"><img align="right" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Image" /></a>
 <ul>
-  <li>💡I'm curious person, that explore as many technologial areas as I can.</li>
+  <li>💡I'm curious person, that explore as many technologial areas as I can.</li> 
   <li>📚 I'm currently studying Full-Stack Developer training at OneBitCode.</li>
-  <li>🌱 I'm learning new things every day.</li>
+  <li>🌱 I'm learning new things every day.</li> 
   <li>🥼 Graduated from a technical course in <strong>Systems Development</strong>.</li>
 </ul>
 <div align="left">
 
 ### Current Skills:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC.svg)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC.svg)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6.svg)
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033.svg)<br/>
-![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26.svg)
-![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=hotpink.svg)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA.svg)<br/>
-![Styled Components](https://img.shields.io/badge/styled--components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,bootstrap)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,git)](https://skillicons.dev)
 
 </div>
   
 ### Skills in Development:
 
-![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031.svg)
-![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>
-![Django](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=%23092E20.svg)
-![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1.svg)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,py,django,mysql)](https://skillicons.dev)
 
 <div align="center">
 
