@@ -6,7 +6,7 @@
 
 ---
 ### About me:
-<a href="#"><img align="right" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Image" /></a>
+<a href="#"><img align="right" width="250" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Image" /></a>
 <ul>
   <li>💡I'm curious person, that explore as many technologial areas as I can.</li> 
   <li>📚 I'm currently studying Full-Stack Developer training at OneBitCode.</li>
