@@ -6,7 +6,6 @@
 
 ---
 ### About me:
-<a href="#"><img align="right" width="250" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Image" /></a>
 <ul>
   <li>💡I'm curious person, that explore as many technologial areas as I can.</li> 
   <li>📚 I'm currently studying Full-Stack Developer training at OneBitCode.</li>
@@ -17,14 +16,18 @@
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,bootstrap)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,bootstrap,html,css,tailwind,styledcomponents,git)](https://skillicons.dev) <br/>
 
 </div>
   
 ### Skills in Development:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nodejs,py,django,mysql)](https://skillicons.dev)
+
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansouz&theme=dark&hide_border=false" alt="GitHub Streak" style="width: auto; height: 170px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_lang=html" alt="Top Languages" style="width: auto; height: 170px;"/>
+</div>
 
 <div align="center">
 
