@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=407BFEFF&height=100">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6c00&height=100">
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=FEFEFE&center=true&random=false&width=540&lines=Hi+there!+I'm+Renan;Nice+to+meet+you!;Front-end+Developer" alt="Typing SVG" /></a> 
@@ -26,16 +26,15 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansouz&theme=dark&hide_border=false" alt="GitHub Streak" style="width: auto; height: 170px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_lang=html" alt="Top Languages" style="width: auto; height: 170px;"/>
 </div>
 
 <div align="center">
 
 ## Contact-me
   
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/renansilvadev/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link)](mailto:renanss2005@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=fecc7d)](https://www.linkedin.com/in/renansilvadev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=fecc7d&link)](mailto:renanss2005@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=fecc7d)](https://twitter.com/renansilvadev)
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=407BFEFF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ff6c00">
