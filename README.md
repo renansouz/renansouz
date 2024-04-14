@@ -22,7 +22,7 @@
   
 ### Skills in Development:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,py,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,next,nodejs,py,django,mysql)](https://skillicons.dev)
 
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansouz&theme=dark&hide_border=false" alt="GitHub Streak" style="width: auto; height: 170px;"/>
