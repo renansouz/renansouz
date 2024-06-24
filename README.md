@@ -22,12 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,next,nodejs,django,flask,mysql)](https://skillicons.dev)
 
-<div style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansouz&theme=dark&hide_border=false" alt="GitHub Streak" style="width: auto; height: 170px;"/>
-</div>
-
-<div align="center">
-
 ## Contact-me
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=fecc7d)](https://www.linkedin.com/in/renansilvadev/)
