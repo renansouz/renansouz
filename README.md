@@ -22,8 +22,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,next,nodejs,django,flask,mysql)](https://skillicons.dev)
 
+<div align="center">
+
 ## Contact-me
-  
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=fecc7d)](https://www.linkedin.com/in/renansilvadev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=fecc7d&link)](mailto:renanss2005@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=fecc7d)](https://twitter.com/renansilvadev)
+</div>
