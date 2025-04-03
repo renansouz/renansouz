@@ -14,13 +14,13 @@
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,bootstrap,html,css,tailwind,styledcomponents,git,py,sqlite)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,angular,nodejs,firebase,tailwind,bootstrap,html,css,styledcomponents,git,sqlite)](https://skillicons.dev) <br/>
 
 </div>
   
 ### Skills in Development:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,next,nodejs,django,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,django,flask,mysql)](https://skillicons.dev)
 
 <div align="center">
 
