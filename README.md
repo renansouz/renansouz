@@ -20,7 +20,7 @@
   
 ### Skills in Development:
 
-[![My Skills](https://skillicons.dev/icons?i=next,django,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,jest,django,flask,mysql)](https://skillicons.dev)
 
 <div align="center">
 
