@@ -8,7 +8,7 @@
   <li>💡I'm curious person, that explore as many technologial areas as I can.</li> 
   <li>📚 I'm currently studying <strong>Frontend Development</strong> at greystone college.</li>
   <li>🌱 I'm learning new things every day.</li> 
-  <li>🥼 Graduated from a technical course in <strong>Systems Development</strong>.</li>
+  <li>🥼 Graduated in <strong>Systems Development</strong>.</li>
 </ul>
 <div align="left">
 
