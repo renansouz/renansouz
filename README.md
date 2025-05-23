@@ -14,7 +14,7 @@
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,angular,nodejs,firebase,tailwind,bootstrap,git,sqlite,jquery)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,angular,nodejs,firebase,tailwind,bootstrap,git,sqlite,jquery,redux)](https://skillicons.dev) <br/>
 
 </div>
   
