@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=FEFEFE&center=true&random=false&width=540&lines=Hi+there!+I'm+Renan;Nice+to+meet+you!;FullStack+Developer" alt="Typing SVG" /></a> 
 </div>
 
----
+##
 
 ### About Me
 - **Inquisitive mind** exploring diverse technological realms  
@@ -72,7 +72,7 @@
 
 ## Contact-me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=fecc7d)](https://www.linkedin.com/in/renansilvadev/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=fecc7d&link)](mailto:renanss2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/renansilvadev/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:renanss2005@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=fecc7d)](https://twitter.com/renansilvadev)
 </div>
