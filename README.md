@@ -7,9 +7,9 @@
 ### About Me
 - **Inquisitive mind** exploring diverse technological realms  
 - Learning something new **every day**
-- Working as a **freelance developer**, building solutions that matter
+- Working as a **freelance developer** building solutions that matter
 - **Systems Development** graduate 
-- **Frontend Development diploma**, Vancouver, Canada. 🍁
+- **Frontend Development diploma**, Vancouver, Canada 🍁
 
 #### Backend & Data Engineering 
 <div>
