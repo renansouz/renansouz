@@ -76,3 +76,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:renanss2005@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=fecc7d)](https://twitter.com/renansilvadev)
 </div>
+He who has a why to live can bear almost any how. </br>
+He who conquers himself is the mightiest warrior. </br>
