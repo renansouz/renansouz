@@ -10,7 +10,7 @@
 * Learning something new every day
 * Freelance developer building solutions that matter
 * Former Analyst IT at Teleperformance 🏢 </>
-* Former System Developer at Premier Insuranve Canada 🏢🍁
+* Former System Developer at Premier Insurance Canada 🏢🍁
 * Systems Development graduate, Brazil 📚 </>
 * Frontend Development diploma, Vancouver, Canada 📚🍁 </>
 * Artificial Intelligence Technologist, Brazil 📚 </>
