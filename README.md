@@ -10,19 +10,16 @@
 <a href="mailto:renanss2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/renansilvadev">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 </p>
 
 ---
 
 ## 👨‍🚀 About Me
 
-I am a **Software Engineer** specializing in bridging the gap between high-performance Web Applications and **Artificial Intelligence**. With a career spanning international roles in Canada and Brazil, I build scalable solutions using modern stacks and intelligent data-driven architectures.
+I am a **Software Engineer** driven by curiosity, continuous learning, and a passion for building meaningful digital experiences. I create scalable solutions using modern stacks and thoughtful, data-informed approaches.
 
-* 🎓 **AI Technologist:** Currently pursuing a degree in Artificial Intelligence to master Machine Learning, EDA, and Predictive Analytics.
-* 🍁 **International Background:** Former Systems Developer in **Vancouver, Canada**, with experience in complex enterprise environments.
+* 🎓 **AI Technologist:** Currently pursuing a degree in Artificial Intelligence, with growing interest in Machine Learning, Data Analysis, and Predictive Modeling.
+* 🍁 **Canadian Experience:** Former Systems Developer in **Vancouver, Canada**, with experience in enterprise environments.
 * 🛠️ **FullStack Hybrid:** Proficient in multiple frontend frameworks (React, Angular) and robust backend architectures (NestJS, Node.js).
 * ☁️ **Cloud Oriented:** Building and deploying applications within **AWS** and **Azure** ecosystems.
 
@@ -70,13 +67,13 @@ I am a **Software Engineer** specializing in bridging the gap between high-perfo
 ---
 
 ## 🚀 Currently Exploring
-- 🤖 **Deep Learning:** Developing neural networks for pattern recognition.
-- ☁️ **AWS Cloud Practitioner:** Certifying knowledge in cloud infrastructure and serverless computing.
-- 🧪 **Advanced EDA:** Mastering complex data storytelling and visualization.
+- 🤖 **Deep Learning:** Strengthening my foundation in neural networks and pattern recognition.
+- ☁️ **AWS Cloud Practitioner:** Expanding knowledge in cloud infrastructure and serverless computing.
+- 🧪 **Advanced Data Analysis:** Improving my skills in data interpretation, visualization, and insight generation.
 
 ---
 
 <p align="center">
-<i>"He who has a why to live can bear almost any how."</i><br/>
-<b>Engineering the intersection of Code and Intelligence.</b>
+<i>"Curiosity is the beginning of wisdom."</i><br/>
+<b>Building software with purpose, clarity, and continuous learning.</b>
 </p>
