@@ -1,26 +1,79 @@
-<img src="https://img.sanishtech.com/u/ab28f57dcaa0340e344566998702efb5.png" style="width: 50rem" alt="preview of the hero page">
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D1FF&center=true&random=false&width=600&lines=Hi,+I'm+Renan+Silva;Software+Engineer;AI+Technologist;FullStack+Developer" alt="Typing SVG" /></a> 
+</div>
 
+### 🛰️ Connectivity
+<p align="center">
+<a href="https://www.linkedin.com/in/renansilvadev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:renanss2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-# Portfolio
+---
 
-This is where I keep my projects, experiments, and the stuff I'm currently learning. 
+## 👨‍🚀 About Me
 
-It’s basically a central hub for my work and the tools I use to build things.
+I am a **Software Engineer** driven by curiosity, continuous learning, and a passion for building meaningful digital experiences. I create scalable solutions using modern stacks and thoughtful, data-informed approaches.
 
+* 🎓 **AI Technologist:** Currently pursuing a degree in Artificial Intelligence, with growing interest in Machine Learning, Data Analysis, and Predictive Modeling.
+* 🍁 **Canadian Experience:** Former Systems Developer in **Vancouver, Canada**, with experience in enterprise environments.
+* 🛠️ **FullStack Hybrid:** Proficient in multiple frontend frameworks (React, Angular) and robust backend architectures (NestJS, Node.js).
+* ☁️ **Cloud Oriented:** Building and deploying applications within **AWS** and **Azure** ecosystems.
 
-## 🛠️ The Tech Stack
-- **React**: My main choice for front-end development.
-- **Tailwind CSS**: For quick styling without the mess.
-- **EmailJS**: Handles the contact form so I don't have to maintain a dedicated back-end for this site.
-- **Vercel**: Where the site is hosted.
+---
 
-## 🚀 Live Demo
-Check it out here:
-[renansouz-dev-portfolio.vercel.app](https://renansouz-dev-portfolio.vercel.app/)
+## 🛠️ Technical Ecosystem
 
-## 📬 Get in Touch
-If you want to chat about the code, have questions, or just want to talk shop:
+### 🧠 Data Science & AI
+*Transforming raw data into intelligent insights*
 
-- **GitHub**: [renansouz](https://github.com/renansouz)
-- **LinkedIn**: [Renan Silva](https://www.linkedin.com/in/renansilvadev/)
-- **Email**: renanss2005@gmail.com
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/r-444876?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+### 🌐 Frontend Engineering
+*Crafting intuitive and scalable user interfaces*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 💻 Backend & Cloud
+*Designing robust servers and cloud architectures*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Currently Exploring
+- 🤖 **Deep Learning:** Strengthening my foundation in neural networks and pattern recognition.
+- ☁️ **AWS Cloud Practitioner:** Expanding knowledge in cloud infrastructure and serverless computing.
+- 🧪 **Advanced Data Analysis:** Improving my skills in data interpretation, visualization, and insight generation.
+
+---
+
+<p align="center">
+<i>"Curiosity is the beginning of wisdom."</i><br/>
+<b>Building software with purpose, clarity, and continuous learning.</b>
+</p>
