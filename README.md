@@ -1,6 +1,6 @@
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D1FF&center=true&random=false&width=700&lines=Hi,+I'm+Renan+Silva;Software+Developer;FullStack+Engineer;AI+and+Data+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D1FF&center=true&random=false&width=700&lines=Hi,+I'm+Renan+Silva;Software+Engineer;FullStack+Developer" alt="Typing SVG" />
   </a> 
 </div>
 
@@ -24,14 +24,11 @@
 
 ## 👨‍💻 About Me
 
-Software developer focused on frontend engineering, backend systems, and data-oriented applications.
+I've always been more interested in building solutions than simply writing code.
 
-- 🎓 Studying Artificial Intelligence with focus on machine learning, data analysis, and intelligent systems.
-- 🍁 Professional experience in Canada working with enterprise insurance systems and internal platforms.
-- 🛠️ Building full-stack applications with React, Angular, TypeScript, Node.js, Python, PostgreSQL, and Firebase.
-- ☁️ Working with cloud services, Docker-based workflows, CI/CD pipelines, and modern deployment environments.
+My journey started in web development, expanded through an international experience in Canada, and continues today through software engineering, artificial intelligence, and full-stack systems.
 
----
+I enjoy understanding problems before jumping into solutions, organizing complex ideas, and turning them into products that create real value.
 
 ---
 
@@ -104,11 +101,11 @@ Software developer focused on frontend engineering, backend systems, and data-or
 
 ## 🚀 Current Focus
 
-- Artificial Intelligence and machine learning fundamentals
-- Advanced TypeScript patterns
-- Backend architecture and API design
-- Cloud infrastructure and deployment workflows
-- Data visualization and analytics systems
+- Software Engineering
+- Backend Architecture
+- Cloud Computing
+- Artificial Intelligence
+- Product Development
 
 ---
 
