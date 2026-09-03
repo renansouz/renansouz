@@ -2,7 +2,7 @@
 
 <br>
 
-Hello, my name is Renan Souza, I'm a brazilian software engineer with 7+ years around code, working across backend, cloud, and machine learning, currently building at [Telefônica Vivo](https://www.vivo.com.br).
+Hello, my name is Renan Souza, I'm a brazilian software engineer with 6+ years around code, working across backend, cloud, and machine learning, currently building at [Telefônica Vivo](https://www.vivo.com.br).
 
 I'm [1x AWS Certified](#), hold two credentials from Harvard ([CS50x](#) and [CS50w](#)), and speak English, Portuguese, and Spanish fluently. I also spent two years living and working as a systems developer in Vancouver, Canada 🇨🇦 
 
