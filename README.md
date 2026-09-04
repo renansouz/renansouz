@@ -6,6 +6,7 @@ I'm [1x AWS Certified](#), hold two credentials from Harvard ([CS50x](#) and [CS
 
 My education runs from a technical degree in Systems Development, to a degree in Frontend Development at Greystone College, to where I am now, an ongoing degree in Artificial Intelligence at FIAP.
 
+
 Outside of work, I'm usually playing basketball or at the gym. I also play a lot of chess, and I still enjoy sitting down with a good math problem.
 
 #### Technologies and tools
