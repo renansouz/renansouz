@@ -1,10 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=E5E5E5&center=true&random=false&width=500&lines=Welcome+to+my+GitHub+%3A)" alt="Typing SVG" />
 
-<br>
-
 Hello, my name is Renan Souza, I'm a brazilian software engineer with 6+ years around code, working across backend, cloud, and machine learning, currently building at [Telefônica Vivo](https://www.vivo.com.br).
 
-I'm [1x AWS Certified](#), hold two credentials from Harvard ([CS50x](#) and [CS50w](#)), and speak English, Portuguese, and Spanish fluently. I also spent two years living and working as a systems developer in Vancouver, Canada 🇨🇦 
+I'm [1x AWS Certified](#), hold two credentials from Harvard ([CS50x](#) and [CS50w](#)), and speak English, Portuguese, and Spanish fluently. I also spent two years living in Vancouver, Canada, including working as a systems developer 🇨🇦 
 
 My education runs from a technical degree in Systems Development, to a degree in Frontend Development at Greystone College, to where I am now, an ongoing degree in Artificial Intelligence at FIAP.
 
